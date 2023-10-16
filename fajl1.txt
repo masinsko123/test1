@@ -3,3 +3,4 @@ ovo mijenja prvi drug
 ovo jos dodaje prvi
 da vidimo merge
 mora jos
+samo pijan mogu
