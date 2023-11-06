@@ -6,3 +6,4 @@ mora jos
 samo pijan mogu
 jbt zivot
 ne smije se psovati
+samo ovaj fajl je trebalo mijenjati
